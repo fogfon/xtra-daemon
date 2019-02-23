@@ -1,0 +1,19 @@
+# On https://www.qualcomm.com/site/privacy/services XTRA is described as
+
+"XTRA – Predicted GNSS Satellite Orbit Data. XTRA is technology offered 
+by Qualcomm Technologies, Inc. in the US and QT Technologies Ireland
+Limited in the European Economic Area to improve mobile device
+performance. XTRA downloads a data file from Qualcomm containing the
+predicted orbits of the Global Navigation Satellite System (GNSS)
+atellites. Using the XTRA data file reduces the time the device needs
+to calculate its location, thus saving time and battery power when 
+using location-based applications. Newer versions of the XTRA software 
+also upload a small amount of data to us. We use the uploaded data for 
+purposes described in this Policy, such as maintaining and improving 
+the quality, security, and integrity of the service. XTRA uploads the 
+following data types: a randomly generated unique ID, the chipset name
+and serial number, XTRA software version, the mobile country code and 
+network code (allowing identification of country and wireless operator), 
+the type of operating system and version, device make and model, the 
+time since the last boot of the application processor and modem, and a 
+list of our software on the device"
